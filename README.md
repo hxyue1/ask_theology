@@ -27,7 +27,7 @@ The dataset is publicly available on HuggingFace [here](https://huggingface.co/d
 
 The books included in the dataset are:
 
-Carson, Donald A, and Douglas J Moo. An Introduction to the New Testament. Grand Rapids, Michigan., Zondervan, 2005.
-Cowan, Steven B, et al. Five Views on Apologetics. Grand Rapids, Michigan., Zondervan, 2000.
-Grudem, Wayne A. SYSTEMATIC THEOLOGY, SECOND EDITION: An Introduction to Biblica Doctrine. S.L., Zondervan, 2020.
-Hastings, Adrian. A World History of Christianity. 2000. Grand Rapids, Michigan., Eerdmans, 5 July 2000.
+Carson, Donald A, and Douglas J Moo. An Introduction to the New Testament. Grand Rapids, Michigan., Zondervan, 2005.\
+Cowan, Steven B, et al. Five Views on Apologetics. Grand Rapids, Michigan., Zondervan, 2000.\
+Grudem, Wayne A. SYSTEMATIC THEOLOGY, SECOND EDITION: An Introduction to Biblica Doctrine. S.L., Zondervan, 2020.\
+Hastings, Adrian. A World History of Christianity. 2000. Grand Rapids, Michigan., Eerdmans, 5 July 2000.\
